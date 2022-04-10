@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Estadísticas de GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=luis-zunino&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+[![Estadísticas de GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=luis-zunino&count_private=true&show_icons=true)](https://github.com/luis-zunino/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-zunino&layout=compact)](https://github.com/luis-zunino/github-readme-stats)
+<a href="https://github.com/luis-zunino/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luis-zunino&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/luis-zunino/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luis-zunino&repo=convoychat" />
 </a>
