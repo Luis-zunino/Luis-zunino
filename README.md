@@ -4,7 +4,7 @@ Hola, soy Luis, vivo en San José, Uruguay, tengo 27 años, me considero un fan�
 
 ### Curriculum 👀
 
-📝 [Curriculum](<a target="_blank" href="https://www.canva.com/design/DAErr_C5T50/view">)
+📝 <a target="_blank" href="https://www.canva.com/design/DAErr_C5T50/view">Curriculum</a>
 
 🌱
 
