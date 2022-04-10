@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola bienvenido a mi GitHub 👋
 
 <!--
 **Luis-zunino/luis-zunino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Estadísticas de GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=luis-zunino&count_private=true&show_icons=true)](https://github.com/luis-zunino/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-zunino&layout=compact)](https://github.com/luis-zunino/github-readme-stats)
+[![Estadísticas de GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=luis-zunino&count_private=true&theme=dark&show_icons=true)](https://github.com/luis-zunino/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-zunino&&theme=dark&layout=compact)](https://github.com/luis-zunino/github-readme-stats)
 <a href="https://github.com/luis-zunino/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luis-zunino&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/luis-zunino/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luis-zunino&repo=convoychat" />
-</a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luis-zunino&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
