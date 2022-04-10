@@ -1,22 +1,12 @@
 ## Bienvenido a mi GitHub 👋
 
-[Curriculum](https://www.canva.com/design/DAErr_C5T50/view) 👀
-<br>
+Hola, soy Luis, vivo en San José, Uruguay, tengo 27 años, me considero un fanático de la tecnología móvil y tengo una gran atracción hacia las matemáticas. Acabo de finalizar un Bootcamp ( curso intensivo ) de Hack Academy y estoy buscando mi primera experiencia laboral. Mi objetivo es mejorar mis habilidades como desarrollador, continuar aprendiendo IA y poder crecer dentro del mundo de la programación.
 
-### Proyecto 🌱
+### Curriculum 👀
 
-- 📝 [E-Commerce](https://losi.vercel.app/)
-  <br>
+📝 [Curriculum](<a target="_blank" href="https://www.canva.com/design/DAErr_C5T50/view">)
 
-  - Admin:
-
-        user: user@email.com // pass: 1234
-
-  - Customer:
-
-        user: user@mail.com // pass: 1234
-
-<br>
+🌱
 
 ### Lenguajes y Herramientas 🔧
 
@@ -38,15 +28,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-<br><hr><br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-zunino&&theme=dark&layout=compact)](https://github.com/luis-zunino/github-readme-stats)
-<a href="https://github.com/luis-zunino/github-readme-stats">
-
-<br><hr><br>
 
 [![Estadísticas de GitHub de Luis-zunino](https://github-readme-stats.vercel.app/api?username=luis-zunino&count_private=true&theme=dark&show_icons=true)](https://github.com/luis-zunino/github-readme-stats)
-
-<br><hr><br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luis-zunino&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
