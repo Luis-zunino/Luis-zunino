@@ -1,6 +1,9 @@
-### Hola bienvenido a mi GitHub 👋
+## Bienvenido a mi GitHub 👋
 
---Project--
+[Curriculum](https://www.canva.com/design/DAErr_C5T50/view) 👀
+<br>
+
+### Proyecto 🌱
 
 - 📝 [E-Commerce](https://losi.vercel.app/)
   <br>
@@ -13,8 +16,10 @@
 
         user: user@mail.com // pass: 1234
 
-<br> 
-**Languages and Tools:**
+<br>
+
+### Lenguajes y Herramientas 🔧
+
 <br>
 
 ![React](https://img.shields.io/badge/-React-black?logo=React&style=social)&nbsp;&nbsp;
