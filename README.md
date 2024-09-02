@@ -1,10 +1,11 @@
 ## Bienvenido a mi GitHub 👋
 
-Hola, soy Luis, vivo en San José, Uruguay, tengo 27 años, me considero un fanático de la tecnología móvil y tengo una gran atracción hacia las matemáticas. Acabo de finalizar un Bootcamp ( curso intensivo ) de Hack Academy y estoy buscando mi primera experiencia laboral. Mi objetivo es mejorar mis habilidades como desarrollador, continuar aprendiendo IA y poder crecer dentro del mundo de la programación.
+Soy de San José, Uruguay, tengo 29 años, me considero un fanático de la tecnología móvil y tengo una gran atracción hacia las matemáticas.
+ Mi objetivo es mejorar mis habilidades como desarrollador, continuar aprendiendo y poder crecer dentro del mundo de la programación.
 
-### Curriculum 👀
+### LinkedIn 👀
 
-📝 <a target="_blank" href="https://www.canva.com/design/DAErr_C5T50/view">Curriculum</a>
+📝 <a target="_blank" href="https://www.linkedin.com/in/luis-zunino/">Perfil</a>
 
 🌱
 
@@ -21,6 +22,7 @@ Hola, soy Luis, vivo en San José, Uruguay, tengo 27 años, me considero un fan�
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=MongoDB&style=social)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
